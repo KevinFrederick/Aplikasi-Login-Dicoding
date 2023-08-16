@@ -12,9 +12,9 @@ const loginFormElement = document.querySelector('#loginForm');
 const inputEmailElement = document.querySelector('#inputEmail');
 
 /**
- * Membuat variabel inputPasswordElement untuk tampilan input password.
- * @constant {HTMLElement}
- */
+* Membuat variabel inputPasswordElement untuk tampilan input password.
+* @constant {HTMLElement}
+*/
 const inputPasswordElement = document.querySelector('#inputPassword');
 
 /**
